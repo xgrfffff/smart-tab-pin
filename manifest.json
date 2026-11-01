@@ -3,7 +3,7 @@
   "name": "Smart Tab Pin",
   "version": "1.2.0",
   "minAppVersion": "1.5.7",
-  "description": "Double-click file tabs to toggle native pinning; pin Markdown tabs when you edit them.",
+  "description": "Double-click file tabs to toggle native pinning; automatically pin Markdown and Excalidraw tabs when editing.",
   "author": "xugenrui",
   "isDesktopOnly": true
 }
